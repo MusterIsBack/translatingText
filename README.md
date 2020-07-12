@@ -5,6 +5,6 @@ A simple script that receives a text from the user and then selects the language
 Then translates and shows the text.
 
 I used: 
-  Googletrans API
-  Loops
+  Googletrans API - 
+  Loops - 
   If / else statement
